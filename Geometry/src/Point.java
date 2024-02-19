@@ -6,6 +6,15 @@
     }
 }
 
+ class Circle{
+     Point center;
+     double radius;
+     Circle(Point center,double radius) {
+         this.center = center;
+         this.radius = radius;
+     }
+ }
+
 class Rectangle{
     Point p1,p2,p3,p4;
     Rectangle(Point p1,Point p2,Point p3,Point p4){
@@ -57,14 +66,6 @@ class Rectangle{
 }
 
 
-class Circle{
-    Point center;
-    double radius;
-    Circle(Point center,double radius) {
-        this.center = center;
-        this.radius = radius;
-    }
-}
 
 class Test{
     public static void main(String[] args) {
