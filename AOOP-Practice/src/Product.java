@@ -61,7 +61,6 @@ class ShoppingCart {
     }
 }
 
-
 class Test1{
     public static void main(String[] args) {
         Electronics electronics = new Electronics("Laptop", 50000, "E101", 2);
