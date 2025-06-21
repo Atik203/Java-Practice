@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AOOP-Practice/AOOP-Practice.iml" filepath="$PROJECT_DIR$/AOOP-Practice/AOOP-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geometry/Geometry.iml" filepath="$PROJECT_DIR$/Geometry/Geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Collections/Java-Collections.iml" filepath="$PROJECT_DIR$/Java-Collections/Java-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Swing/Java_Swing.iml" filepath="$PROJECT_DIR$/Java_Swing/Java_Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Lab_Solve/OOP_Lab_Solve.iml" filepath="$PROJECT_DIR$/OOP_Lab_Solve/OOP_Lab_Solve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/learning.iml" filepath="$PROJECT_DIR$/learning/learning.iml" />
+    </modules>
+  </component>
+</project>
